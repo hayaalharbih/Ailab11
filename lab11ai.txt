@@ -1,0 +1,308 @@
+Welcome to SWI-Prolog (threaded, 64 bits, version 10.0.2)
+SWI-Prolog comes with ABSOLUTELY NO WARRANTY. This is free software.
+Please run ?- license. for legal details.
+
+For online help and background, visit https://www.swi-prolog.org
+For built-in help, use ?- help(Topic). or ?- apropos(Word).
+
+101 ?- consult(['c:/Users/alhar/Downloads/name_game.pl']).
+true.
+
+102 ?- start_game.
+
+Hi This is the "Name Game"
+You will be given a set of English letters in which you will add, delete or move to create your name.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: 1.
+
+--- Current Set of Letters ---
+a
+b
+c
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: |: 2.
+Enter letter to add: |: H.
+Letter added successfully.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: |: 3.
+Enter letter to add at the top: |: F.
+Letter added at the top successfully.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: |: 4.
+Enter letter to add at the bottom: |: Z.
+Letter added at the bottom successfully.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: |: 5.
+Enter letter to delete: |: A.
+Letter deleted successfully.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: |: 1.
+
+--- Current Set of Letters ---
+a
+b
+c
+_19898
+_19898
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: |: 2.
+Enter letter to add: |: h.
+Letter added successfully.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: |: 1.
+
+--- Current Set of Letters ---
+a
+b
+c
+_19908
+_19908
+h
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: |: 5.
+Enter letter to delete: |: _19908.
+Letter deleted successfully.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: |: 5.
+Enter letter to delete: |: 19908.
+Letter deleted successfully.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: |: 3.
+|: h.
+Letter added at the top successfully.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: |: 4.
+Enter letter to add at the bottom: |: f.
+Letter added at the bottom successfully.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: |: 1.
+
+--- Current Set of Letters ---
+h
+b
+c
+_19944
+h
+f
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: |: 6.
+All letters deleted successfully.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: |: 1.
+
+--- Current Set of Letters ---
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: 2. 
+|: h.
+Letter added successfully.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: |: 2.
+Enter letter to add: |: a.
+Letter added successfully.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: |: 2.
+Enter letter to add: |: y.
+Letter added successfully.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: |: 2.
+Enter letter to add: |: a.
+Letter added successfully.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: |: 1.
+
+--- Current Set of Letters ---
+h
+a
+y
+a
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice...
+|: |: 
